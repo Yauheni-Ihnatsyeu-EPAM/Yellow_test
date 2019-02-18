@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.filter-wrapper {
+    background-color: #eaeaea;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    width: 100px;
+  height: 31px;
+  border-radius: 11px;
+  background-color: #ffffff;
+  margin-right: 10px;
+  margin-left: 10px;
+}
