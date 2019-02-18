@@ -5,7 +5,7 @@ import './style.css';
 import addIcon from '../../assets/images/add.svg';
 import DateFilter from '../../components/dateFilter';
 import api from '../../services/http/api';
-import ListItem from '../../components/list/listItem';
+import ListItem from '../../components/JogsList/listItem';
 
 export default class Dashboard extends Component {
   constructor(props){
